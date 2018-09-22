@@ -1,2 +1,2 @@
-# DeepFromScratch
-Deep learning code from scratch
+# Deep-from-scratch
+Deep learning algorithm code from scratch
